@@ -40,7 +40,7 @@ A spooky Streamlit app for Halloween fun!
 
 ### 👀 Preview
 ![Home Page](main_screen.png)  
-![Game Screen](story_generator.png)  
+![Game Screen](stroy_generator.png)  
 ![Result Screen](final.png)
 
 ---
