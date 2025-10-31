@@ -49,6 +49,11 @@ A spooky Streamlit app for Halloween fun!
 ![Result Screen](final.png)
 
 ---
+## 👀 Preview
+| Home Page | Story Screen | Ending |
+|------------|--------------|--------|
+| ![Home Page](main_screen.png) | ![Story Generator](stroy_generator.png) | ![Final Screen](final.png) |
+
 
 ## 📜 License
 This project is licensed under the [MIT License](./LICENSE).
