@@ -43,17 +43,14 @@ The app saves your story in-session and allows password-protected download of th
 ## 🧟‍♂️ The Cursed Code – Halloween Hack 🎃
 A spooky Streamlit app for Halloween fun!
 
-### 👀 Preview
-![Home Page](main_screen.png)  
-![Game Screen](stroy_generator.png)  
-![Result Screen](final.png)
-
 ---
+
 ## 👀 Preview
 | Home Page | Story Screen | Ending |
 |------------|--------------|--------|
 | ![Home Page](main_screen.png) | ![Story Generator](stroy_generator.png) | ![Final Screen](final.png) |
 
+---
 
 ## 📜 License
 This project is licensed under the [MIT License](./LICENSE).
