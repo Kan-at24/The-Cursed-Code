@@ -5,6 +5,11 @@
 
 ---
 
+## 🎥 Demo Video
+Watch the demo here: [Whispers_Demo.mp4](https://drive.google.com/file/d/1_kmptO4PQtEcAhP-atwl86UncSKmqtyB/view?usp=drive_link)
+
+---
+
 ## 🔮 About
 **Whispers in the Dark** is an interactive Streamlit app that generates a personalized horror story based on the player's choices.  
 Each decision changes the narrative flow and reveals unpredictable twists and endings.  
