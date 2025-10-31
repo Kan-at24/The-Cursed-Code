@@ -1,6 +1,7 @@
 # 👻 Whispers in the Dark — An AI Horror Experience
 
 **Live app:** https://the-cursed-code-bgiqmfuc8qkjw55scrivmx.streamlit.app/
+
 **Repository:** https://github.com/Kan-at24/The-Cursed-Code
 
 ## 🔮 About
